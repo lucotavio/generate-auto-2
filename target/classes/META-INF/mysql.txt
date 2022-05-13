@@ -1,0 +1,4 @@
+<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/generate_auto_2"/>
+            <property name="javax.persistence.jdbc.user" value="root"/>
+             <property name="javax.persistence.jdbc.password" value="789789"/>
+            <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
